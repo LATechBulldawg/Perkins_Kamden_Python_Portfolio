@@ -649,7 +649,7 @@ widgets.interact(update_plot, year_range=year_range_slider)
 -->
 
 ## Python Fundamentals
-### Python Fundamentals
+### Python Fundamentals Assignment
 ```python
 #Any python interpreter can be used as a calculator:
 3+5*4
@@ -783,11 +783,6 @@ print('weight in kilograms is now:', weight_kg)
 
     weight in kilograms is now: 65.0
 
-
-
-```python
-
-```
 
 ### Analyzing Data (1, 2, and 3)
 ```python
@@ -1018,11 +1013,6 @@ print(numpy.mean(data, axis = 1))
      5.95  6.275 5.7   6.1   6.825 5.975 6.725 5.7   6.25  6.4   7.05  5.9  ]
 
 
-
-```python
-
-```
-
 Some more
 
 ```python
@@ -1099,11 +1089,6 @@ matplotlib.pyplot.show()
 
 ![png](output_4_0.png)
 
-
-
-```python
-
-```
 
 ### Storing Values in Lists
 ```python
@@ -1258,11 +1243,6 @@ print('Omitting ending index:', sond)
     Omitting ending index: ['sep', 'oct', 'nov', 'dec']
 
 
-
-```python
-
-```
-
 ### Using Loops
 ```python
 odds = [1, 3, 5, 7]
@@ -1373,12 +1353,6 @@ print(len(name))
 
     3
 
-
-
-```python
-
-```
-
 ### Using Multiple Files
 ```python
 import glob
@@ -1444,11 +1418,6 @@ for filename in filenames:
 
 ![png](output_2_5.png)
 
-
-
-```python
-
-```
 
 ### Making Choices
 ```python
@@ -1572,11 +1541,6 @@ else:
 
     Minima add up to zero! -> HEALTHY PARTICIPANT ALERT!
 
-
-
-```python
-
-```
 
 ### Functions (1, 2, 3, and 4)
 ```python
@@ -1729,12 +1693,8 @@ print_temperatures()
     temperature in Fahrenheit was: 212.0
     temperature in Kelvin was: 373.15
 
-
-
-```python
-
-```
 Some more
+
 ```python
 import numpy
 import glob
@@ -2339,12 +2299,6 @@ print(normalize_rectangle( (0.0, 0.0, 5.0, 1.0) ))
 
     AssertionError: Calculated upper Y coordinate invalid
 
-
-
-```python
-
-```
-
 ## Transcription and Translation
 ### Script Goals
 Transcription:
@@ -2370,6 +2324,14 @@ Translation:
 4) Prompt the user to save the file as a protein sequence
 
 5) Print the amino acid sequence
+
+### Script Details
+For my transcribing and translation code, I used the SIM1 gene. 
+Details about this gene can be found on NCBI using the following link:
+
+Per NCBI, here is a summary of the gene: "Enables protein heterodimerization activity. Involved in ureteric bud development. Acts upstream of or within regulation of DNA-templated transcription. Located in nucleus. Is expressed in several structures, including central nervous system; embryo mesenchyme; future brain; genitourinary system; and sensory organ. Used to study obesity. Human ortholog(s) of this gene implicated in obesity. Orthologous to human SIM1 (SIM bHLH transcription factor 1). [provided by Alliance of Genome Resources, Jul 2025]"
+
+I chose this gene as I remember it being associated with ED, and that made me chuckle when I learned that in my youth. 
 
 ### Transcribing DNA into RNA
 ```python
