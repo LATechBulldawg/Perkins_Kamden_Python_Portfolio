@@ -1,4 +1,5 @@
 # BISC 450C Computational Biology - Python Final Project
+## Introduction
 Howdy! I am Kamden Perkins; welcome to one of my Githubs. You have stumbled into, or for some insane reason intentionally arrived at, my final project for the BISC 450C Computational Biology class at LA Tech. I took this class for several reasons. The first of these is to become more acquainted with the python language. I often use python in my undergraduate research with the physics department, and I thought a more formal introduction of it would be beneficial. The second reason pertains to the requirement for the Health/Medical Physics certificate offered by our university’s physics department. This certificate required one more biology class, so I figured why not have it be one that I enjoy? And enjoy this class I did. I would recommend anyone and everyone to take the class, as the lectures explained the content well and you gain very marketable skills. While I cannot take the second class due to my usual enrollment in 18 hours, I will be a champion for Dr. VDB and recommend many of my friends to take it. I hope you enjoy my work below. *Geaux DAWGS!*
 
 ## Using Jupyter Notebooks
