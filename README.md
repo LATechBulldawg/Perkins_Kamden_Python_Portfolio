@@ -2223,11 +2223,6 @@ def std_dev(sample):
     return numpy.sqrt(sum_squared_devs / (len(sample) - 1))
 ```
 
-
-```python
-
-```
-
 ### Defensive Programming
 ```python
 numbers = [1.5, 2.3, 0.7, 0.001, 4.4]
