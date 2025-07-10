@@ -36,7 +36,6 @@ df.head()
     .dataframe thead th {
         text-align: right;
     }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -104,7 +103,7 @@ df.tail()
 
 
 <div>
-<style scoped>
+	
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -116,7 +115,7 @@ df.tail()
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -189,7 +188,7 @@ df.head()
 
 
 <div>
-<style scoped>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -201,7 +200,7 @@ df.head()
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -299,7 +298,7 @@ df.loc[non_numeric_profits].head()
 
 
 <div>
-<style scoped>
+
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -311,7 +310,7 @@ df.loc[non_numeric_profits].head()
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -490,7 +489,7 @@ fig.tight_layout()
 
 ![png](output_18_0.png)
 
-
+<!--
 
 ```python
 pip3 install ipywidgets
@@ -647,12 +646,7 @@ widgets.interact(update_plot, year_range=year_range_slider)
 
     <function __main__.update_plot(year_range)>
 
-
-
-
-```python
-
-```
+-->
 
 ## Python Fundamentals
 ### Python Fundamentals
