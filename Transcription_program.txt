@@ -1,0 +1,11 @@
+1) Prompt the user to enter the name of a file (FASTA) to be transcribed into RNA
+
+2) Read in the file
+
+3) Translate the DNA into RNA
+	a) T -> U
+
+4) Prompt the user to save the new file (RNA output)
+	a) So we can use this file for the translation script
+
+5) Print the RNA sequence
