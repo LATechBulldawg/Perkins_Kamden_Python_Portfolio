@@ -1,7 +1,7 @@
 # Computational Biology
 
 ## Using Jupyter Notebooks
-###
+### Jupyter Notebook Assignment
 ```python
 %matplotlib inline
 import pandas as pd
