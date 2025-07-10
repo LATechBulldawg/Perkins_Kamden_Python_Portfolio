@@ -1,4 +1,5 @@
-# Computational Biology
+# BISC 450C Computational Biology - Python Final Project
+Howdy! I am Kamden Perkins; welcome to one of my Githubs. You have stumbled into, or for some insane reason intentionally arrived at, my final project for the BISC 450C Computational Biology class at LA Tech. I took this class for several reasons. The first of these is to become more acquainted with the python language. I often use python in my undergraduate research with the physics department, and I thought a more formal introduction of it would be beneficial. The second reason pertains to the requirement for the Health/Medical Physics certificate offered by our university’s physics department. This certificate required one more biology class, so I figured why not have it be one that I enjoy? And enjoy this class I did. I would recommend anyone and everyone to take the class, as the lectures explained the content well and you gain very marketable skills. While I cannot take the second class due to my usual enrollment in 18 hours, I will be a champion for Dr. VDB and recommend many of my friends to take it. I hope you enjoy my work below. *Geaux DAWGS!*
 
 ## Using Jupyter Notebooks
 ### Jupyter Notebook Assignment
@@ -2328,6 +2329,7 @@ Translation:
 ### Script Details
 For my transcribing and translation code, I used the SIM1 gene. 
 Details about this gene can be found on NCBI using the following link:
+https://www.ncbi.nlm.nih.gov/gene/20464
 
 Per NCBI, here is a summary of the gene: "Enables protein heterodimerization activity. Involved in ureteric bud development. Acts upstream of or within regulation of DNA-templated transcription. Located in nucleus. Is expressed in several structures, including central nervous system; embryo mesenchyme; future brain; genitourinary system; and sensory organ. Used to study obesity. Human ortholog(s) of this gene implicated in obesity. Orthologous to human SIM1 (SIM bHLH transcription factor 1). [provided by Alliance of Genome Resources, Jul 2025]"
 
