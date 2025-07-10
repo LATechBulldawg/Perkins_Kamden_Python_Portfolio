@@ -1,0 +1,9 @@
+1) Prompt the user to enter the name of a file that has an RNA sequence
+
+2) Open the file the user indicated
+
+3) Translate the RNA codons into an amino acid using a codon table
+
+4) Prompt the user to save the file as a protein sequence
+
+5) Print the amino acid sequence
